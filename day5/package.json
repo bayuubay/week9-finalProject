@@ -1,0 +1,19 @@
+{
+  "name": "day5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "fastest-validator": "^1.10.0",
+    "joi": "^17.4.0",
+    "nodemailer": "^6.4.18",
+    "nodemon": "^2.0.7"
+  }
+}
